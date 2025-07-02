@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+#include<bits/stdc++.h>
+using namespace std;
+
+
+int n,m,i,j,k,h,t,x=0,y=0,z=0,d=0;
+int ans=0,sum=0,cnt=0,p=0,mx=0,mn=0;
+int a,b,l,r;
+string s,st,str;
+
+int main()
+{
+#ifndef ONLINE_JUDGE
+   freopen("input.txt","r",stdin);
+   freopen("output.txt","w",stdout);
+#endif
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>normal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
